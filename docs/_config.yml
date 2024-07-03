@@ -1,0 +1,4 @@
+markdown: kramdown
+kramdown:
+  input: GFM
+remote_theme: pages-themes/slate
